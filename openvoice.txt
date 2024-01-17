@@ -1,0 +1,6 @@
+在线使用：https://kevinwang676-openvoice.hf.space；
+Colab使用：https://github.com/KevinWang676/Bark-Voice-Cloning；
+欢迎大家在Github上点击star，鼓励支持一下up的开源项目！
+欢迎大家关注up，我会持续分享AI的有趣程序和模型的，希望大家喜欢！
+
+https://github.com/myshell-ai/OpenVoice
